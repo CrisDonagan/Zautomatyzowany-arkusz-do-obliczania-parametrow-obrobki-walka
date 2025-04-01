@@ -1,4 +1,4 @@
-#Zautomatyzowany arkusz kalkulacyjny do obliczania parametrów obróbki skrawania wałka na podstawie wybranych danych
+# Zautomatyzowany arkusz kalkulacyjny do obliczania parametrów obróbki skrawania wałka na podstawie wybranych danych
 
 W ramach ćwiczeń laboratoryjnych na zajęciach z przedmiotu "Projektowanie procesów technologicznych" należało obliczyć parametry obróbki skrawania dla jednej z konfiguracji podanego wałka.
 
